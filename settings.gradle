@@ -1,0 +1,2 @@
+include ':app', ':PerformanceMonitor'
+rootProject.name='MethodMonitorDemo'
